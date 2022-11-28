@@ -1,5 +1,5 @@
 # Find Me
-Project under Prof. Dr. Amitangshu Pal 
+Real‑time Localization based on Sensing, Communication and Networking
 
 ## Steps to RUN Acceleration-Orientation Tracking (Approach 1):
 
