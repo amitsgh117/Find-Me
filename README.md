@@ -1,4 +1,5 @@
-# Find Me: Based on HyperIMU App
+# Find Me
+Project under Prof. Dr. Amitangshu Pal 
 
 ## Steps to RUN Acceleration-Orientation Tracking (Approach 1):
 
@@ -24,3 +25,13 @@ python3 live.py
 python3 tracking.py
 ```
 5) The animation of the path covered is saved as ```animation.gif```.
+
+## Credits:
+* Amit Kumar Singh
+* Rajib Sahoo 
+* Navneet Sharma 
+* Atanu Kar
+* Ashutosh More 
+* Abhay Kumar Dwivedi 
+* Mayank Devnani 
+* Siddhartha Bura
