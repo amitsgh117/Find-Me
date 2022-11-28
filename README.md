@@ -1,6 +1,6 @@
 # Find Me: Based on HyperIMU App
 
-## Steps to RUN:
+## Steps to RUN Acceleration-Orientation Tracking (Approach 1):
 
 1) Clear the ```sensor.csv``` before running to record fresh data.
 2) Use [HyperIMU](https://play.google.com/store/apps/details?id=com.ianovir.hyper_imu) mobile app to stream sensor data in real-time. Go to its Settings, enter the Laptop's IP address in the app and update the sampling frequency to 1000 ms. Make sure the laptop and mobile phone is connected to the same network. Then go to Sensor List and toggle ON the Linear Accelerometer and Orientation buttons.
